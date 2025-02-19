@@ -3,7 +3,6 @@
 - 🌱 I’ve recently finished the bootcamp data engineering at LE WAGON SCHOOL in Paris and it was a real Happiness and Pleasure.
 - 💞️ I would like to work in a research-like (R&D) environment and help all projects go ahead and get success.
 - 📫 How to reach me : You can see my [LinkedIn full profile](https://www.linkedin.com/in/donatien-konan-75368312a), follow me and so you can see every hard skills I have in my School Bag under my Profile.
-  You can also overview [my resume](https://onokana8.github.io/SolarPanelsNasa/) and look at some works I've realized.
 - 😄 Pronouns: He/Him
 
 <!---
