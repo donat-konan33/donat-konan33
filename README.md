@@ -7,7 +7,7 @@
 - 🌱 I’ve recently finished the bootcamp data engineering at LE WAGON SCHOOL in Paris and it was a real Happiness and Pleasure.
 - 👨‍💻 All of my projects are available at [https://github.com/donat-konan33]()
 - 💞️ I feel well in a research-like (R&D) environment
-- 📫 How to reach me : You can see my [donatien.konan.pro@gmail.com]()
+- 📫 How to reach me : [donatien.konan.pro@gmail.com]()
 - 😄 Pronouns: He/Him
 ### Connect with me:
 
