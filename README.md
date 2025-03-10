@@ -1,7 +1,7 @@
 <p align="center" style="font-size: 50px; font-weight: bold;"><strong>👋 Hi, I’m Donatien Konan</strong></p>
 
 ------------------------------
-<p align="center" style="font-size: 40px; font-weight: bold;"> A motivated Data Science and DataOps </p>
+<p align="center" style="font-size: 40px; font-weight: bold;"> A motivated Data Science and DataOps Major </p>
 
 - 👀 I’m interested in all things around topic about `Data engineering` and `Machine Learning`
 - 🌱 I’ve recently finished the bootcamp data engineering at LE WAGON SCHOOL in Paris and it was a real Happiness and Pleasure.
