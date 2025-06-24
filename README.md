@@ -1,3 +1,7 @@
+<p align="center" style="font-size: 50px; font-weight: bold;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donat-konan33&hide_progress=true" alt="Donatien's GitHub Stats" />
+</p>
+
 <p align="center" style="font-size: 50px; font-weight: bold;"><strong>👋 Hi, I’m Donatien Konan</strong></p>
 
 ------------------------------
