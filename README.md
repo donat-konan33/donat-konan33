@@ -7,16 +7,17 @@
 ------------------------------
 <p align="center" style="font-size: 40px; font-weight: bold;"> A motivated Data Science and Data Engineering Major </p>
 
-👋 Hi, I’m Donatien Konan — Data Engineer × Data Scientist × Energy Scientist
-🎓 MSc in New Technologies for Energy (specializing in electrochemical storage & battery characterization)
-🎓 MSc in Data Science | Data Engineering Bootcamp @ Le Wagon (Paris)
+Here’s a breakdown of my education:
 
-I bridge fundamental science, data intelligence, and robust engineering to accelerate R&D — especially in energy and industrial applications.
+- 🎓 MSc in New Technologies for Energy — specializing in electrochemical storage & battery characterization @ Université de Tours (France)
+- 🎓 MSc in Data Science | Data Engineering Bootcamp @ Le Wagon (Paris)
 
-- 🔬 Deep knowledge of battery physics & chemistry (**materials, aging, performance modeling, lab characterization**)
+Together, they form the foundation of my approach: bridging fundamental science, data intelligence, and robust engineering to accelerate R&D — especially in energy and industrial applications.
+
+- 🔬 Deep knowledge of battery physics & chemistry : **materials, aging, performance modeling, lab characterization**(e.g., CV, EIS, cycling tests)
 - 📊 Skilled in data science (**Python, Scikit-Learn, Predictive Modeling (Deep Learning / Machine Learning**))
 - ⚙️ Build production-grade data pipelines (**Airflow, Spark, dbt, Docker, FastAPI, CI/CD**)
-- 📈 Turn complex lab/field data into actionable insights (**Plotly, Streamlit, SQL, PostgreSQL**)
+- 📈 Turn complex lab/field data into actionable insights (**Plotly, Streamlit, SQL, PostgreSQL, ClickHouse DB**)
 
 I thrive where science meets software — in R&D environments that value rigor, reproducibility, and impact.
 
