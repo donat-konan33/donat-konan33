@@ -2,20 +2,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donat-konan33&hide_progress=true" alt="Donatien's GitHub Stats" />
 </p>
 
-<p align="center" style="font-size: 50px; font-weight: bold;"><strong>👋 Hi, I’m Donatien Konan</strong></p>
+<p align="center" style="font-size: 50px; font-weight: bold;"><strong>👋 Hi, I’m Donatien Konan — Data Engineer × Data Scientist × Energy Scientist </strong></p>
 
 ------------------------------
-<p align="center" style="font-size: 40px; font-weight: bold;"> A motivated Data Science and DataOps Major </p>
+<p align="center" style="font-size: 40px; font-weight: bold;"> A motivated Data Science and Data Engineering Major </p>
 
-- 👀 I’m interested in all things around topic about `Data engineering` and `Machine Learning`
-- 🌱 I’ve recently finished the bootcamp data engineering at LE WAGON SCHOOL in Paris and it was a real Happiness and Pleasure.
-- 👨‍💻 All of my projects are available at [https://github.com/donat-konan33]()
-- 💞️ I feel well in a research-like (R&D) environment
-- 📫 How to reach me : [donatien.konan.pro@gmail.com]()
-- 😄 Pronouns: He/Him
-### Connect with me:
+👋 Hi, I’m Donatien Konan — Data Engineer × Data Scientist × Energy Scientist
+🎓 MSc in New Technologies for Energy (specializing in electrochemical storage & battery characterization)
+🎓 MSc in Data Science | Data Engineering Bootcamp @ Le Wagon (Paris)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/donat-konan33)
+I bridge fundamental science, data intelligence, and robust engineering to accelerate R&D — especially in energy and industrial applications.
+
+- 🔬 Deep knowledge of battery physics & chemistry (**materials, aging, performance modeling, lab characterization**)
+- 📊 Skilled in data science (**Python, Scikit-Learn, Predictive Modeling (Deep Learning / Machine Learning**))
+- ⚙️ Build production-grade data pipelines (**Airflow, Spark, dbt, Docker, FastAPI, CI/CD**)
+- 📈 Turn complex lab/field data into actionable insights (**Plotly, Streamlit, SQL, PostgreSQL**)
+
+I thrive where science meets software — in R&D environments that value rigor, reproducibility, and impact.
+
+- 📬 Let’s collaborate: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/donat-konan33)
+- 🧑 Pronouns: He/Him
+- 🔗 Projects: [github.com/donat-konan33](https://github.com/donat-konan33?tab=repositories)
 
 ### Languages and Tools:
 
@@ -28,7 +35,6 @@
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017E7D?style=flat&logo=apache-airflow)](https://airflow.apache.org/)
 [![Airbyte](https://img.shields.io/badge/-Airbyte-00B4A1?style=flat&logo=airbyte)](https://airbyte.com/)
 [![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn)](https://scikit-learn.org/stable/)
 
 <!---
