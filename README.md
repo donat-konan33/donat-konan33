@@ -10,7 +10,8 @@
 Here’s a breakdown of my education:
 
 - 🎓 MSc in New Technologies for Energy — specializing in electrochemical storage & battery characterization @ Université de Tours (France)
-- 🎓 MSc in Data Science | Data Engineering Bootcamp @ Le Wagon (Paris)
+- 🎓 MSc in Data Science @ OpenClassrooms (Paris)
+- 🎓 Data Engineering Bootcamp @ Le Wagon (Paris)
 
 Together, they form the foundation of my approach: bridging fundamental science, data intelligence, and robust engineering to accelerate R&D — especially in energy and industrial applications.
 
