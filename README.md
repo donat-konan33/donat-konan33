@@ -2,23 +2,39 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donat-konan33&hide_progress=true" alt="Donatien's GitHub Stats" />
 </p>
 
-<p align="center" style="font-size: 50px; font-weight: bold;"><strong>👋 Hi, I’m Donatien Konan — Data Engineer × Data Scientist × Energy Scientist </strong></p>
+<p align="center" style="font-size: 50px; font-weight: bold;"><strong>👋 Hi, I’m Donatien Konan — Machine Learning and Data Science | Exploring Scientific Applications </strong></p>
 
 ------------------------------
-<p align="center" style="font-size: 40px; font-weight: bold;"> A motivated Data Science and Data Engineering Major </p>
+</p>
 
 Here’s a breakdown of my education:
 
-- 🎓 MSc in New Technologies for Energy — specializing in electrochemical storage & battery characterization @ Université de Tours (France)
-- 🎓 MSc in Data Science @ OpenClassrooms (Paris)
 - 🎓 Data Engineering Bootcamp @ Le Wagon (Paris)
+- 🎓 MSc in Data Science @ CentraleSupelec / OpenClassrooms (Paris)
+- 🎓 MSc in New Technologies for Energy — specializing in storage materials and characterization @ Université de Tours (France)
+- 🎓 Maîtrise in Chemistry @ Université Félix-Houphouët-Boigny (Ivory Coast)
 
 Together, they form the foundation of my approach: bridging fundamental science, data intelligence, and robust engineering to accelerate R&D — especially in energy and industrial applications.
 
-- 🔬 Deep knowledge of battery physics & chemistry : **materials, aging, performance modeling, lab characterization**(e.g., CV, EIS, cycling tests)
-- 📊 Skilled in data science (**Python, Scikit-Learn, Predictive Modeling (Deep Learning / Machine Learning**))
-- ⚙️ Build production-grade data pipelines (**Airflow, Spark, dbt, Docker, FastAPI, CI/CD**)
-- 📈 Turn complex lab/field data into actionable insights (**Plotly, Streamlit, SQL, PostgreSQL, ClickHouse DB**)
+- 🔬 Deep knowledge of battery physics & chemistry :
+    - **materials**
+    - **aging**
+    - **performance modeling**
+    - **lab characterizations (e.g., CV, EIS, cycling tests, galvano)**
+- 📊 Skilled in data science :
+    - **Python**
+    - **Scikit-Learn**
+    - **Predictive Modeling (Deep Learning / Machine Learning**)
+- ⚙️ Build production-grade data pipelines :
+  - **Airflow**
+  - **Spark, dbt**
+  - **Docker**
+  - **FastAPI**
+  - **CI/CD**
+- 📈 Turn complex lab/field data into actionable insights :
+  - **Plotly**
+  - **Streamlit**
+  - **SQL, PostgreSQL, ClickHouse DB**
 
 I thrive where science meets software — in R&D environments that value rigor, reproducibility, and impact.
 
